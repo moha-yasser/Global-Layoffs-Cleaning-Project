@@ -1,6 +1,11 @@
 # 📊 SQL Project: Data Cleaning for Global Layoffs Dataset
 This project demonstrates a robust, multi-stage data cleaning workflow using SQL to transform raw, messy recruitment and layoff data into a structured format suitable for analysis. The process utilizes a "Staging" methodology to protect raw data integrity while performing complex transformations.
 
+## 💻 Tech Stack & Environment
+- Database Engine: MySQL 8.0
+- IDE: MySQL Workbench 🛠️
+- SQL Concepts: CTEs, Window Functions (ROW_NUMBER), DDL/DML, String Formatting, Data Type Casting, Feature Engineering.
+
 ## 📂 Dataset Source
 - Source: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 - Period: Includes global layoff data from the COVID-19 pandemic through 2024.
